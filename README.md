@@ -1,2 +1,2 @@
 # media-de-alunos
-medias de alunos 
+medias dos alunos 
