@@ -1,0 +1,28 @@
+*{
+    padding: 15px;
+    margin: 12px;
+    height: 18px;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    
+
+}
+
+p{
+    font-size: 30px;
+    padding-left: 100px;
+}
+
+button{
+    margin: 50px;
+    height: 50px;
+    padding: auto;
+
+}
+
+input{
+    align-items: center;
+}
